@@ -4,6 +4,14 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ## Log
 
+
+### R1D14
+**Today's Progress**: @microverseinc. #ruby #webdevelopment #100DaysOfCode
+
+**Thoughts:** Not feeling great today. Coughing lots. 
+
+**Twitter: #ruby #webdevelopment #100DaysOfCode
+
 ### R1D13
 **Today's Progress**: Ruby's capstone. Working with Twitter/Octokit gems to make bot able to access twitter and GitHub. Octokit, tricky finding clear examples. Working with regexp to get the right info. Progress and lots of fun @microverseinc. #ruby #webdevelopment #100DaysOfCode
 
