@@ -5,11 +5,11 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 ## Log
 
 ### R1D13
-**Today's Progress**: . 
+**Today's Progress**: Ruby's capstone. Working with Twitter/Octokit gems to make bot able to access twitter and GitHub. Octokit, tricky finding clear examples. Working with regexp to get the right info. Progress and lots of fun @microverseinc. #ruby #webdevelopment #100DaysOfCode
 
-**Thoughts:** 
+**Thoughts:** Not feeling great today. Coughing lots. 
 
-**Twitter:@codewars #ruby #webdevelopment #100DaysOfCode
+**Twitter:R1D13. Ruby's capstone. Working with Twitter/Octokit gems to make bot able to access twitter and GitHub. Octokit, tricky finding clear examples. Working with regexp to get the right info. Progress and lots of fun @microverseinc. #ruby #webdevelopment #100DaysOfCode
 
 ### R1D12
 **Today's Progress**: Starting Ruby's capstone. Building a Ruby Twitter bot with 72hs deadline @microverseinc. Testing twitter gem. Building a basic handler class. Tested git-crypt as a way to protect dev keys in the repo. Awesome! 
