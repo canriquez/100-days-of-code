@@ -5,12 +5,19 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 ## Log
 
 
-### R1D14
-**Today's Progress**: @microverseinc. #ruby #webdevelopment #100DaysOfCode
+### R16
+**Today's Progress**: Ruby's capstone project approved @microverseinc. ruby-twitter-bot ready to roll. I will install it on a Pi3 including a 24hs crontab call. Here it is if you wanna checkit out:  Finished coding challenge repeated string @hackerrank FizzBuzz #ruby #webdevelopment #100DaysOfCode
 
 **Thoughts:** Not feeling great today. Coughing lots. 
 
-**Twitter: #ruby #webdevelopment #100DaysOfCode
+**Twitter: R1D16
+
+### R1D14-R1D15
+**Today's Progress**: Ruby's capstone done project. Lost of fun with Ruby. First submission and resubmission done now waiting for final evaluation.@microverseinc. Finished coding challenge @hackerrank FizzBuzz #ruby #webdevelopment #100DaysOfCode
+
+**Thoughts:** Not feeling great today. Coughing lots. 
+
+**Twitter: R1D14-R1D15 Ruby's capstone done project. Lost of fun with Ruby. First submission and resubmission done now waiting for final evaluation.@microverseinc. Finished coding challenge @hackerrank FizzBuzz #ruby #webdevelopment #100DaysOfCode #ruby #webdevelopment #100DaysOfCode
 
 ### R1D13
 **Today's Progress**: Ruby's capstone. Working with Twitter/Octokit gems to make bot able to access twitter and GitHub. Octokit, tricky finding clear examples. Working with regexp to get the right info. Progress and lots of fun @microverseinc. #ruby #webdevelopment #100DaysOfCode
