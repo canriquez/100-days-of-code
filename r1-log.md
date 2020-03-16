@@ -4,13 +4,26 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ## Log
 
+### R1D18
+**Today's Progress**: #ruby #webdevelopment #100DaysOfCode
 
-### R16
+**Thoughts:** Not feeling great today. Coughing lots. 
+
+**Twitter: R1D18 @hackerrank #ruby #webdevelopment #100DaysOfCode
+
+### R1D17
+**Today's Progress**: Final adjustments before sharing ruby-twitter-bot repo. Working on professional skills curriculum before continuing with SQL curriculum @microverseinc online school. #ruby #webdevelopment #100DaysOfCode
+
+**Thoughts:** Not feeling great today. Coughing lots. 
+
+**Twitter: R1D17 @hackerrank #ruby #webdevelopment #100DaysOfCode
+
+### R1D16
 **Today's Progress**: Ruby's capstone project approved @microverseinc. ruby-twitter-bot ready to roll. I will install it on a Pi3 including a 24hs crontab call. Here it is if you wanna checkit out:  Finished coding challenge repeated string @hackerrank FizzBuzz #ruby #webdevelopment #100DaysOfCode
 
 **Thoughts:** Not feeling great today. Coughing lots. 
 
-**Twitter: R1D16
+**Twitter: R1D16 Today's Progress: Ruby's capstone project approved!! @microverseinc. ruby-twitter-bot ready to roll. Here it is if you wanna check it out https://github.com/canriquez/ruby-twitter-bot Finished coding challenge 'repeated string' @hackerrank #ruby #webdevelopment #100DaysOfCode
 
 ### R1D14-R1D15
 **Today's Progress**: Ruby's capstone done project. Lost of fun with Ruby. First submission and resubmission done now waiting for final evaluation.@microverseinc. Finished coding challenge @hackerrank FizzBuzz #ruby #webdevelopment #100DaysOfCode
