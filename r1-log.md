@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ## Log
 ### R1D20
-**Today's Progress**:R1D19  @hackerrank #sql #webdevelopment #100DaysOfCode
+**Today's Progress**:R1D20 Progressing through SQL curriculum @microverse online school. Finished challenge Fibonacci Numbers @hackerrank #sql #webdevelopment #100DaysOfCode
 
 **Thoughts:** Not feeling great today. Coughing lots. 
 
