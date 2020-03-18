@@ -3,13 +3,19 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ## Log
-
-### R1D19
-**Today's Progress**: #ruby #webdevelopment #100DaysOfCode
+### R1D20
+**Today's Progress**:R1D19  @hackerrank #sql #webdevelopment #100DaysOfCode
 
 **Thoughts:** Not feeling great today. Coughing lots. 
 
-**Twitter: R1D19 @hackerrank #ruby #webdevelopment #100DaysOfCode
+**Twitter:R1D20 @hackerrank #sql #webdevelopment #100DaysOfCode
+
+### R1D19
+**Today's Progress**:R1D19 Finished professional skills unit requirements. Starting Databases/SQL  @microverse. Solved 'Palindrom Index' @hackerrank #sql #webdevelopment #100DaysOfCode
+
+**Thoughts:** Not feeling great today. Coughing lots. 
+
+**Twitter:R1D19 Finished professional skills unit requirements. Starting Databases/SQL  @microverse. Solved 'Palindrom Index' @hackerrank #sql #webdevelopment #100DaysOfCode
 
 ### R1D17-18
 **Today's Progress**: R1D17-18.Working from home for the rest of week. Final adjustments on .env variables for ruby-twitter-bot repo sharing. Working on professional skills curriculum before continuing with SQL curriculum @microverseinc online school. Solved 'Anagram' @hackerrank #ruby #webdevelopment #100DaysOfCode #stayhomechallenge #selfquarantine
