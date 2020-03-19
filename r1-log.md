@@ -3,12 +3,19 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ## Log
-### R1D20
-**Today's Progress**:R1D20 Progressing through SQL curriculum @microverse online school. Finished challenge Fibonacci Numbers @hackerrank #sql #webdevelopment #100DaysOfCode
+### R1D21
+**Today's Progress**:R1D20 working on sqlteaching.com practice from SQL curriculum @microverse online school. Its funny how a day of a remote worker is similar to the one of a quarentene person :) @hackerrank #sql #webdevelopment #100DaysOfCode
 
 **Thoughts:** Not feeling great today. Coughing lots. 
 
-**Twitter:R1D20 @hackerrank #sql #webdevelopment #100DaysOfCode
+**Twitter:R1D21 @hackerrank #sql #webdevelopment #100DaysOfCode
+
+### R1D20
+**Today's Progress**::R1D20 Progressing through SQL curriculum @microverse online school. Finished challenge Fibonacci Numbers. This challenge was great to practice about recursion and specially code optimisation to avoide a stack overflow! @hackerrank #sql #webdevelopment #100DaysOfCode
+
+**Thoughts:** Not feeling great today. Coughing lots. 
+
+**Twitter:R1D20 Progressing through SQL curriculum @microverse online school. Finished challenge Fibonacci Numbers. This challenge was great to practice about recursion and specially code optimisation to avoide a stack overflow! @hackerrank #sql #webdevelopment #100DaysOfCode
 
 ### R1D19
 **Today's Progress**:R1D19 Finished professional skills unit requirements. Starting Databases/SQL  @microverse. Solved 'Palindrom Index' @hackerrank #sql #webdevelopment #100DaysOfCode
