@@ -2,6 +2,14 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D22
+Today's Progress:R1D22 Finished SQL course reading material. now on with SQL project @microverse online school. #sql #webdevelopment #100DaysOfCode
+
+Thoughts: Not feeling great today. Coughing lots.
+
+**Twitter:R1D22 Finished SQL course reading material. now on with SQL project @microverse online school. #sql #webdevelopment #100DaysOfCode
+
+
 ## Log
 ### R1D21
 **Today's Progress**:R1D20 working on sqlteaching.com practice from SQL curriculum @microverse online school. Its funny how a day of a remote worker is similar to the one of a quarentene person :) @hackerrank #sql #webdevelopment #100DaysOfCode
