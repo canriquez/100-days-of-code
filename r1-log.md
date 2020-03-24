@@ -1,14 +1,30 @@
 # #100DaysOfCode Log - Round 1 - [Carlos Anriquez]
 
+
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D26
+
+Today's Progress:R1D6
+
+**Twitter:R1D6.   #sql #fullstack #webdevelopment  #100DaysOfCode
+
+
+### R1D25
+Today's Progress:R1D25. SQL final project delivered and finished. Applied for a new coding partner to start Ruby on Rails. In the meantime working on Algorithms and Data Structures curriculum 
+@microverse
+ online school. #sql #fullstack #webdevelopment  #100DaysOfCode
+
+Thoughts: Not feeling great today. Coughing lots.
+
+**Twitter:R1D25. SQL final project delivered and finished. Applied for a new coding partner to start Ruby on Rails. In the meantime working on Algorithms and Data Structures curriculum @microverse online school. #sql #fullstack #webdevelopment  #100DaysOfCode
 
 ### R1D24
 Today's Progress:R124  #sql #webdevelopment #100DaysOfCode
 
 Thoughts: Not feeling great today. Coughing lots.
 
-**Twitter:R1D24 Finished SQL course reading material. now on with SQL project @microverse online school. #sql #webdevelopment #100DaysOfCode
+**Twitter:Jumped through this day by mistake. I never twitted R1D24
 
 
 ### R1D22-23
@@ -158,5 +174,14 @@ Twitter: R1D3. Today's Progress: Completed Ruby's Object-Oriented Programming cu
 **Thoughts:** Since I am learning how to work with rubocop, it was a little struggle to make rubocop happy and fix cyclomatic and complexity rules. 
 
 **Link to work:** [enumerable's pull request](https://github.com/canriquez/enumerable/pull/4)
+
+
+
+TEMPLATE:
+### R1DXX
+
+Today's Progress:R1D6
+
+**Twitter:R1DX.   #sql #fullstack #webdevelopment  #100DaysOfCode
 
 
