@@ -1,14 +1,18 @@
 # #100DaysOfCode Log - Round 1 - [Carlos Anriquez]
 
-
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
+
+### R1D27
+
+Today's Progress:R1D27. Finished first challenge 'linked lists' suign ruby on repl.it for @microverseinc online school. 
+
+**Twitter:R1DX.   #sql #fullstack #webdevelopment  #100DaysOfCode
 
 ### R1D26
 
-Today's Progress:R1D6
+Today's Progress:R1D26 Moving through Basic Data Structures working on first linked list challenge using ruby @microverseinc online school. Hopefully I will get my next coding partner to start Ruby on Rails this week. #ruby #fullstack #webdevelopment  #100DaysOfCode
 
-**Twitter:R1D6.   #sql #fullstack #webdevelopment  #100DaysOfCode
-
+**Twitter:R1D26.Moving through Basic Data Structures working on first linked list challenge using ruby @microverseinc online school. Hopefully I will get my next coding partner to start Ruby on Rails this week. #ruby #fullstack #webdevelopment  #100DaysOfCode
 
 ### R1D25
 Today's Progress:R1D25. SQL final project delivered and finished. Applied for a new coding partner to start Ruby on Rails. In the meantime working on Algorithms and Data Structures curriculum 
