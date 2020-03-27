@@ -2,9 +2,16 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D29
+
+Today's Progress:R1D29
+
+**Twitter:R1D29.   #sql #fullstack #webdevelopment  #100DaysOfCode
+
 ### R1D28
 
-Today's Progress:R1D28. Started Rails curriculum. Installing rails on OS Catalina is proving to be a nice challenge.
+Today's Progress:R1D28. Started Rails curriculum. Morning mob programmig session presenting my linked list first challenge solution. Great numbers coincidence at my @microverseinc online school dashboard!. Installing rails on OS Catalina is proving to be a nice challenge. #rails #ruby #fullstack #webdevelopment #100DaysOfCode
+
 
 **Twitter:R1D28   #sql #fullstack #webdevelopment  #100DaysOfCode
 
