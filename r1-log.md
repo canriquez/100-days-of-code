@@ -2,11 +2,17 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
-### R1D29
+### R1D32
 
-Today's Progress:R1D29
+Today's Progress:R1D32 Working on the jumpstartlab.com tutorial 
 
-**Twitter:R1D29.   #sql #fullstack #webdevelopment  #100DaysOfCode
+**Twitter:R1D32.   #sql #fullstack #webdevelopment  #100DaysOfCode
+
+### R1D29-31
+
+Today's Progress:R1D29-31.Lost of Rils reading on Ruby on Rails curriculum @microverseic.Working on learnenough.com Ruby on Rails Tutorial. Chapter 1. Rails feels dry to the first touch but it gets better!   #rails #fullstack #webdevelopment  #100DaysOfCode
+
+**Twitter:R1D29-31.Lost of Rils reading on Ruby on Rails curriculum @microverseic.Working on learnenough.com Ruby on Rails Tutorial. Chapter 1. Rails feels dry to the first touch but it gets better!   #rails #fullstack #webdevelopment  #100DaysOfCode
 
 ### R1D28
 
