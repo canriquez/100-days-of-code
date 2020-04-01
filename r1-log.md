@@ -2,11 +2,17 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D33
+
+Today's Progress:R1D33 Started and finished first rails' project @microverseinc. Reviewing tutsplus post on HTTP. Learning about REST,URLs,APIs,cookies,sessions.. great day today. #rails #fullstack #webdevelopment  #100DaysOfCode  
+
+**Twitter:R1D33 Started and finished first rails' project @microverseinc. Reviewing tutsplus post on HTTP. Learning about REST,URLs,APIs,cookies,sessions.. great day today. #rails #fullstack #webdevelopment  #100DaysOfCode   
+
 ### R1D32
 
-Today's Progress:R1D32 Working on the jumpstartlab.com tutorial 
+Today's Progress:R1D32 Working on the Ruby on Rails jumpstartlab.com tutorial @microverseinc. Great material reviewing MVC design pattern  #rails #fullstack #webdevelopment  #100DaysOfCode  
 
-**Twitter:R1D32.   #sql #fullstack #webdevelopment  #100DaysOfCode
+**Twitter:R1D32 Working on the Ruby on Rails jumpstartlab.com tutorial @microverseinc. Great material reviewing MVC design pattern  #rails #fullstack #webdevelopment  #100DaysOfCode  
 
 ### R1D29-31
 
