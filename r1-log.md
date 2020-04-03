@@ -2,6 +2,18 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D35
+
+Today's Progress:R1D35  #rails #ruby  #fullstack #webdevelopment  #100DaysOfCode  
+
+**Twitter:R1D35 . #rails #ruby  #fullstack #webdevelopment  #100DaysOfCode
+
+### R1D34
+
+Today's Progress:R1D34 Second Rails project submitted project @microverseinc. Following a tutorial building models for custom static and dynamic pages. Applying test-driven development method (TDD). Working with Layouts and embedded Ruby and Heroku deplyment. #rails #ruby  #fullstack #webdevelopment  #100DaysOfCode  
+
+**Twitter:R1D34 Second Rails project submitted project @microverseinc. Following a tutorial building models for custom static and dynamic pages. Applying test-driven development method (TDD). Working with Layouts and embedded Ruby and Heroku deplyment. #rails #ruby  #fullstack #webdevelopment  #100DaysOfCode
+
 ### R1D33
 
 Today's Progress:R1D33 Started and finished first rails' project @microverseinc. Reviewing tutsplus post on HTTP. Learning about REST,URLs,APIs,cookies,sessions.. great day today. #rails #fullstack #webdevelopment  #100DaysOfCode  
