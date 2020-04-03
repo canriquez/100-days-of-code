@@ -10,9 +10,9 @@ Today's Progress:R1D35  #rails #ruby  #fullstack #webdevelopment  #100DaysOfCode
 
 ### R1D34
 
-Today's Progress:R1D34 Second Rails project submitted project @microverseinc. Following a tutorial building models for custom static and dynamic pages. Applying test-driven development method (TDD). Working with Layouts and embedded Ruby and Heroku deplyment. #rails #ruby  #fullstack #webdevelopment  #100DaysOfCode  
+Today's Progress:R1D34 2nd Rails project done @microverseinc. Following a tutorial building models for custom static and dynamic pages. Applying test-driven development method. Working with embedded Ruby layouts and Heroku deployment. #rails #ruby #fullstack #webdevelopment #100DaysOfCode  
 
-**Twitter:R1D34 Second Rails project submitted project @microverseinc. Following a tutorial building models for custom static and dynamic pages. Applying test-driven development method (TDD). Working with Layouts and embedded Ruby and Heroku deplyment. #rails #ruby  #fullstack #webdevelopment  #100DaysOfCode
+**Twitter:R1D34 2nd Rails project done @microverseinc. Following a tutorial building models for custom static and dynamic pages. Applying test-driven development method. Working with embedded Ruby layouts and Heroku deployment. #rails #ruby #fullstack #webdevelopment #100DaysOfCode
 
 ### R1D33
 
