@@ -2,18 +2,14 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
-### R1D37
-
-**Twitter:R1D37 Moving forward with Rails. Great rest_tester lesson at @TheOdinProject!. Experimenting with rest-client and locarl rails server. Troubleshooting missing routes and missing methods and views on my 'users' controller. Great practice. Now ready to start my new Rails project 3 @microverseinc. #rails #ruby #fullstack #webdevelopment #100DaysOfCode
-
 ### R1D36
 
-**Twitter:R1D36 working with model, view and controller lessons form TheOdinProject!. Learning to read the dry ruby guides from guides.rubyonrails.org, still great depth and lots of content to learn about. Eager to continue ASAP with another practice tutorial @microverseinc. #rails #ruby  #fullstack #webdevelopment  #100DaysOfCode
-
+**Twitter:R1D36 Moving forward with Rails. Great rest_tester lesson at @TheOdinProject!. Experimenting with rest-client and locarl rails server. Troubleshooting missing routes and missing methods and views on my 'users' controller. Great practice. Now ready to start my new Rails project 3 @microverseinc. #rails #ruby #fullstack #webdevelopment #100DaysOfCode
 
 ### R1D35
 
-**Twitter:R1D35 working with model, view and controller lessons form TheOdinProject!. Really dry ruby guides, but still great depth and content to learn. Eager to continue ASAP with another practice tutorial @microverseinc. #rails #ruby  #fullstack #webdevelopment  #100DaysOfCode
+**Twitter:R1D35 working with model, view and controller lessons form TheOdinProject!. Learning to read the dry ruby guides from guides.rubyonrails.org, still great depth and lots of content to learn about. Eager to continue ASAP with another practice tutorial @microverseinc. #rails #ruby  #fullstack #webdevelopment  #100DaysOfCode
+
 
 ### R1D34
 
