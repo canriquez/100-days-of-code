@@ -2,6 +2,10 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D37
+
+**Twitter:R1D37 Working throug chapter 5 RoR Tutorial. Finished and submitted project 3 @microverseinc.This was a good progress day. #rails #ruby #fullstack #webdevelopment #100DaysOfCode
+
 ### R1D36
 
 **Twitter:R1D36 Moving forward with Rails. Great rest_tester lesson at @TheOdinProject!. Experimenting with rest-client and locarl rails server. Troubleshooting missing routes and missing methods and views on my 'users' controller. Great practice. Now ready to start my new Rails project 3 @microverseinc. #rails #ruby #fullstack #webdevelopment #100DaysOfCode
