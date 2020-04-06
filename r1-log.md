@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ### R1D38
 
-**Twitter:R1D38.Finished Basic Data Structures lesson's: Linked lists and stack challenges @microverseinc.#rails #ruby #fullstack #webdevelopment #100DaysOfCode
+**Twitter:R1D38.Finished Basic Data Structures lesson's: Linked lists and stack challenges @microverseinc. Learning abou rails ORM's  #ruby #fullstack #webdevelopment #100DaysOfCode
 
 ### R1D37
 
