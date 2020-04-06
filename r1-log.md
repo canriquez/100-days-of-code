@@ -4,11 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ### R1D38
 
-**Twitter:R1D38 Working through chapter 5 Ruby on Rails Tutorial. Adding CSS into the mix and practicing the asset pipeline https://guides.rubyonrails.org/asset_pipeline.html. Finished and submitted project 3 @microverseinc. This was a good progress day. #rails #ruby #fullstack #webdevelopment #100DaysOfCode
+**Twitter:R1D38 #rails #ruby #fullstack #webdevelopment #100DaysOfCode
 
 ### R1D37
 
-**Twitter:R1D38. #rails #ruby #fullstack #webdevelopment #100DaysOfCode
+**Twitter:R1D37 Working through chapter 5 Ruby on Rails Tutorial. Adding CSS into the mix and practicing the asset pipeline https://guides.rubyonrails.org/asset_pipeline.html. Finished and submitted project 3 @microverseinc. This was a good progress day. #rails #ruby #fullstack #webdevelopment #100DaysOfCode
 
 ### R1D36
 
