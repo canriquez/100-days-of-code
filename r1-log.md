@@ -2,6 +2,15 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D40
+
+**Twitter:R1D40.Finishes replit queue challege using linked lists. a  #ruby #fullstack #webdevelopment #100DaysOfCode
+
+
+### R1D39
+
+**Twitter:R1D39. Working on Active Record basics reading through rail guides https://guides.rubyonrails.org/active_record_basics.html. Started solo practice at Rails project 4 @microverseinc. Rails is great when you have the chance to practice it ASAP. #rails #ruby #fullstack #webdevelopment #100DaysOfCode
+
 ### R1D38
 
 **Twitter:R1D38.Finished Basic Data Structures lesson's: Linked lists and stack challenges @microverseinc. Learning abou rails Object-Relational-Mapping  #ruby #fullstack #webdevelopment #100DaysOfCode
