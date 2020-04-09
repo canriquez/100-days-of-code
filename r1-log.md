@@ -2,6 +2,11 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D41
+
+**Twitter:R1D41. Presenting code in our 'Mob programming' with my standup team (best team ever!).  #ruby #fullstack #webdevelopment #100DaysOfCode
+
+
 ### R1D40
 
 **Twitter:R1D40.Finishes replit queue challege using linked lists. Finished tutorial chapter 6 at https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/modeling_users#sec-a_hashed_password from rails curriculum @microverseinc a  #ruby #fullstack #webdevelopment #100DaysOfCode
