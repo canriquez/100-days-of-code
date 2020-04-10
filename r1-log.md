@@ -2,9 +2,14 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+
+### R1D42
+
+**Twitter:R1D42.Rails Project 5 submitted. Now moving on with sessions, cookies, and authentication @microverseinc.  #ruby #fullstack #webdevelopment #100DaysOfCode
+
 ### R1D41
 
-**Twitter:R1D41. Presenting code in our 'Mob programming' with my standup team (best team ever!).  #ruby #fullstack #webdevelopment #100DaysOfCode
+**Twitter:R1D41. Presenting code in our 'Mob programming' with my standup team (best team ever!). Moving trough Rails form basics @microverseinc. Ohh good old form_with, how greate you are...  #ruby #fullstack #webdevelopment #100DaysOfCode
 
 
 ### R1D40
