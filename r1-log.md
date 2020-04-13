@@ -8,11 +8,11 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ### R1D44
 
-**Twitter:R1D44.Rails Project 5 submitted. Now moving on with sessions, cookies, and authentication @microverseinc.  #ruby #fullstack #webdevelopment #100DaysOfCode
+**Twitter:R1D44. Started course on 'Architecting for Reliability on AWS' @pluralsight  #ruby #fullstack #webdevelopment #100DaysOfCode
 
 ### R1D43
 
-**Twitter:R1D43.Little progress for today. Continue reading about cookies & sessions on Rails curriculum @microverseinc.  Started course on 'Architecting for Reliability on AWS' @pluralsight #Rails #fullstack #webdevelopment #100DaysOfCode
+**Twitter:R1D43.Little progress for today. Continue reading about cookies & sessions on Rails curriculum @microverseinc.  #Rails #fullstack #webdevelopment #100DaysOfCode
 
 ### R1D42
 
