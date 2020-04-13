@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ### R1D45
 
-**Twitter:R1D45. Solved min stack challenge on replit using linked_list for datastructures and algorithms curriculum  @microverseinc.  #ruby #fullstack #webdevelopment #100DaysOfCode
+**Twitter:R1D45. Solved min stack, Sliding Maximum, Balanced Brakets challenges for datastructures and algorithms curriculum   Finished Rails' Sessions Cookies and Authentication readings for @microverseinc curriculum. Finished 'Key Concepts and Core Services' on my @pluralsight AWS course  #ruby #fullstack #webdevelopment #100DaysOfCode
 
 ### R1D44
 
