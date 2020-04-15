@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ### R1D46
 
-**Twitter:R1D46.#rails #fullstack #AWS #100DaysOfCode
+**Twitter:R1D46.Completed Rails awesome Andy Leverenz’s @justalever @webcrunchblog twitter clone tutorial. Fixed issues and deployed the app in heroku. Feel free to test signup and tweeet anything just for fun!. #rails #fullstack #AWS #100DaysOfCode
 
 ### R1D45
 
