@@ -2,9 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D47
+
+**Twitter:R1D47. Mob programmign with my standup team presenting 'Balanced Brackets' challenge. Rebuilt Rails project 5 this time using only cookies and db for session persistence and authentication. It was a great practice @microverseinc. #rails #fullstack #AWS #100DaysOfCode
+
 ### R1D46
 
-**Twitter:R1D46.Completed Rails awesome Andy Leverenz’s @justalever @webcrunchblog twitter clone tutorial. Fixed issues and deployed the app in heroku. Feel free to test signup and tweeet anything just for fun!. #rails #fullstack #AWS #100DaysOfCode
+**Twitter:R1D46.Finished Rails Project 5 on authentication @microverseinc. Learned and practice a great deal on MVC, use o bootstrap to improve form and views in general, and a successfull test of the devise gem. This time heroku deployment was a bliss #rails #fullstack #AWS #100DaysOfCode
 
 ### R1D45
 
