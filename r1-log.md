@@ -2,6 +2,11 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D48
+
+**Twitter:R1D48. @microverseinc. #rails #fullstack #AWS #100DaysOfCode
+
+
 ### R1D47
 
 **Twitter:R1D47. Mob programmign with my standup team presenting 'Balanced Brackets' challenge. Rebuilt Rails project 5 this time using only cookies and db for session persistence and authentication. It was a great practice @microverseinc. #rails #fullstack #AWS #100DaysOfCode
