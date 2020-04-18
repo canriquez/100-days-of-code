@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ### R1D49
 
-**Twitter:R1D49. Completed chapter 5&6 of Architecting for reliability course @pluralsight. @microverseinc. #rails #fullstack #AWS #100DaysOfCode
+**Twitter:R1D49. Completed chapter 4&5 of Architecting for reliability course @pluralsight. @microverseinc. #rails #fullstack #AWS #100DaysOfCode
 
 ### R1D48
 
