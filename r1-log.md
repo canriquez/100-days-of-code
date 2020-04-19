@@ -2,9 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D50
+
+**Twitter:R1D50.@awscloud #LAN #WAN #fullstack #AWS #100DaysOfCode
+
 ### R1D49
 
-**Twitter:R1D49. Completed chapter 4&5 of Architecting for reliability course @pluralsight. @microverseinc. #rails #fullstack #AWS #100DaysOfCode
+**Twitter:R1D49.Completed chapters 4&5 of AWS course @pluralsight. Testing AWS Region/VPC with redundant Availability zone configurations on a trial account. It is awesome to see how fast you can build a fault-tolerant network infra with @awscloud #LAN #WAN #fullstack #AWS #100DaysOfCode
 
 ### R1D48
 
