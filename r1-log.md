@@ -2,9 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D51
+
+**Twitter:R1D51 Reviewing Transpose challenge at mob-programmign sessions this morning @microverseinc. Working through Big O concepts. #fullstack #AWS #100DaysOfCode
+
 ### R1D50
 
-**Twitter:R1D50.@awscloud #LAN #WAN #fullstack #AWS #100DaysOfCode
+**Twitter:R1D50 Yei! Halfway there!!. Workign through the Rails' Active record queries reading @microverseinc. Next is Active Record Associations. Lots to cover. It is great to have a project to practice all concepts and Rails conventions.#fullstack #AWS #100DaysOfCode
 
 ### R1D49
 
