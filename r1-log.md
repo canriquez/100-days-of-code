@@ -2,13 +2,17 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D53
+
+**Twitter:R1D53  #rails #ruby #sql #fullstack #AWS #100DaysOfCode
+
 ### R1D52
 
-**Twitter:R1D52  #rails #ruby #sql #fullstack #AWS #100DaysOfCode
+**Twitter:R1D52 Rails Project 7 @microverseinc.Working long hours with my coding partner @haddadsohaib. Great practice on active record associations. Getting to practice the Rails magic.'through', 'source' and the wonders convenience of 'Eager Loading'. Good stuff! . #rails #ruby #sql #fullstack #AWS #100DaysOfCode
 
 ### R1D51
 
-**Twitter:R1D51 Reviewing Transpose challenge at mob-programmign sessions this morning @microverseinc. Working through Big O concepts. Completing Rails Active Record Associacions and queries. Ready for new Rails project 7. #rails #ruby #sql #fullstack #AWS #100DaysOfCode
+**Twitter:R1D51 Reviewing Transpose challenge at mob-programmign sessions this morning @microverseinc. Working through Big O concepts. Completing Rails Active Record Associacions. #rails #ruby #sql #fullstack #AWS #100DaysOfCode
 
 ### R1D50
 
