@@ -2,9 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D55
+
+**Twitter:R1D55. Progress through Active Record Call backs curriculum @microverseinc. #rails #ruby #sql #fullstack #AWS #100DaysOfCode
+
 ### R1D54
 
-**Twitter:R1D54. With my good friend and great team mate @clifton this morning at the standup session. Working on code review change requirements for Rails project 7. We finished the day with the project provate event approved. Next step is the Rails final project. @microverseinc. #rails #ruby #sql #fullstack #AWS #100DaysOfCode
+**Twitter:R1D54. With my great team mate @clifton this morning at the standup session. Working on code review change requirements for Rails project 7. We finished the day with the project provate event approved. Next step is the Rails final project. @microverseinc. #rails #ruby #sql #fullstack #AWS #100DaysOfCode
 
 ### R1D53
 
