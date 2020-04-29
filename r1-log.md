@@ -2,9 +2,12 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
-### R1D55
+### R1D60
+**Twitter:R1D60. Final project submitted and waiting for final approval. next step is a couple of days to review rails notes and request my capstone project! .Super! #rails #ruby #sql #fullstack #AWS #100DaysOfCode
 
-**Twitter:R1D55. Progress through Active Record Call backs curriculum @microverseinc. #rails #ruby #sql #fullstack #AWS #100DaysOfCode
+### R1D55-59
+**Twitter:R1D56-59. Tough weekend and not so great week start. Figthing through distraction to keep makign progress. It is though with so many things in my head. Still, thanks to my coding partner @haddadsohaib and my great standup team for support!. Progress through Active Record Call backs curriculum @microverseinc. Started Rails finel project during monday and tuesday. #rails #ruby #sql #fullstack #AWS #100DaysOfCode
+
 
 ### R1D54
 
