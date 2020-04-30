@@ -2,8 +2,11 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D61
+**Twitter:R1D61. Final rails project 8 approved @microverseinc. Working through Udemy rails course while waiting for final approval. Plan is to continue practicing rails MVC, associations, scopes full day tomorro before requesting Rails Capstone!  #rails #ruby #sql #fullstack #AWS #100DaysOfCode
+
 ### R1D60
-**Twitter:R1D60. Final project submitted and waiting for final approval. next step is a couple of days to review rails notes and request my capstone project! .Super! #rails #ruby #sql #fullstack #AWS #100DaysOfCode
+**Twitter:R1D60. Final project milestone 6 submitted and waiting for final approval. We finhished already milestone 8. I can see Rails Capstone project reques before end of the week @microverseinc. Taking today and tomorrow for a quick Rails review before capstone deadline is upon me!! #rails #ruby #sql #fullstack #AWS #100DaysOfCode
 
 ### R1D55-59
 **Twitter:R1D56-59. Tough weekend and not so great week start. Figthing through distraction to keep makign progress. It is though with so many things in my head. Still, thanks to my coding partner @haddadsohaib and my great standup team for support!. Progress through Active Record Call backs curriculum @microverseinc. Started Rails finel project during monday and tuesday. #rails #ruby #sql #fullstack #AWS #100DaysOfCode
