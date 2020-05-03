@@ -2,6 +2,14 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D64
+
+**Twitter:RD64. Working on the i-rock app in full TDD Rails mode. Acceptance and Intgegration tests today. Working with simple_form and for the first time feeling they are actually simple. :). Just 3 hs today, but great feeling to refactor working on a constant rspect green!.Red-Green-Refactor#rails #webdevelopment #fullstack #100DaysOfCode
+
+### R1D63
+
+**Twitter:RD63. More rails today. Getting a little deeper with simple_forms and Rails. TDD Red-Green-Refactor cycle in full force today. Solving Bowling Score Calculator challenge using TDD. Great learning points.#rails #webdevelopment #fullstack #100DaysOfCode
+
 ### R1D62
 
 **Twitter:RD62. in full review mode to get ready for capstone. Starting 4hs Rails TDD course on @pluralsight to get a liitle deeper into application developing mode. working with rspec, capybara and all that fun stuff. thinking in delaying my capstone until monday. #rails #webdevelopment #fullstack #100DaysOfCode
