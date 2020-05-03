@@ -2,6 +2,10 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D62
+
+**Twitter:RD62. in full review mode to get ready for capstone. Starting 4hs Rails TDD course on @pluralsight to get a liitle deeper into application developing mode. working with rspec, capybara and all that fun stuff. thinking in delaying my capstone until monday. #rails #webdevelopment #fullstack #100DaysOfCode
+
 ### R1D61
 **Twitter:R1D61. Final rails project 8 approved @microverseinc. Working through Udemy rails course while waiting for final approval. Plan is to continue practicing rails MVC, associations, scopes full day tomorro before requesting Rails Capstone!  #rails #ruby #sql #fullstack #AWS #100DaysOfCode
 
