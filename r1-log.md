@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ### R1D66
 
-**Twitter:RD66. #rails #webdevelopment #fullstack #100DaysOfCode
+**Twitter:RD66. Idjasda #rails #webdevelopment #fullstack #100DaysOfCode
 
 ### R1D64-65
 
