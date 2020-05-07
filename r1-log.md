@@ -2,6 +2,12 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+### R1D68
+**Twitter:RD68. #rails #webdevelopment #fullstack #100DaysOfCode
+
+### R1D67
+**Twitter:RD67. Rails TDD course. Moving into model testing. Course uses 'shoulda matchers' gem, but still I am not able to make it work. TDD course is 4 years old @pluralsight, and it has been a challenge in itself to work with rails 5 and refactor many test configurations with new gem versions. FactoryBot used to be FactoryGirl!. #rails #webdevelopment #fullstack #100DaysOfCode
+
 ### R1D66
 
 **Twitter:RD66. Rails TDD course in full force. Focusing on controllers. I want to finish the course before requesting capstone. Getting deep into FactoryBot helpers.  #rails #webdevelopment #fullstack #100DaysOfCode
