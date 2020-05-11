@@ -2,8 +2,11 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+R1D72
+**Twitter:RD72 #rails #webdevelopment #fullstack #100DaysOfCode
+
 ### R1D71.
-**Twitter:RD71. Early morning start. Back to Rails Capstone project. After finishing initial wireframes based on project spec, I started using capybara to write initial acceptance tests an so the app project coding started. First controller crude done fully tested. 3 more to go. Good progress day. #rails #webdevelopment #fullstack #100DaysOfCode
+**Twitter:RD71. Early 5.00am. Rails Capstone @microverseinc. Draft wireframes ready. Writing capybara acceptance tests to guide project development. First model and controller crude, index, show, new done ( & fully tested ). #rails #webdevelopment #RoR #fullstack #100DaysOfCode #TDD
 
 ### R1D69-70.
 **Twitter:RD69-70. Starting Rails Capstone @microverseinc.  Half-day for planning. Work scoping using TDD approach. ERD, Wireframes and basic Integration tests done. Working with Rails 5, Devise, bootstrap, simple_forms, RSpec, FactoryBot.#rails #webdevelopment #fullstack #100DaysOfCode
