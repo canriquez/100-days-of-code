@@ -3,7 +3,7 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 R1D72
-**Twitter:RD72 #rails #webdevelopment #fullstack #100DaysOfCode
+**Twitter:D72 Today continuing with Rails Capstone @microverse.'Capybara loves database-cleaner gem' is the summary after an hour chasing an inexisting bugSmiling face with open mouth and cold sweat. TDD is defining the coding sequence. Learning about Rails AJAX and jquery magic. #rails #webdevelopment #fullstack #100DaysOfCode
 
 ### R1D71.
 **Twitter:RD71. Early 5.00am. Rails Capstone @microverseinc. Draft wireframes ready. Writing capybara acceptance tests to guide project development. First model and controller crude, index, show, new done ( & fully tested ). #rails #webdevelopment #RoR #fullstack #100DaysOfCode #TDD
