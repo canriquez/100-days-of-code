@@ -2,9 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+##R1D74.
+
+**Twitter:RD74. #rails #TDD #webdevelopment #fullstack #100DaysOfCode
+
 ##R1D73.
 
-**Twitter:RD73 #rails #webdevelopment #fullstack #100DaysOfCode
+**Twitter:RD73. Crushing Rails capstone project bugs as fast as I can. Learning about Turbolinks hijacking jquery AJAX action/code. Finally finding a fix!. Great learning project @microverseinc.Next: Authentication and Authorizations. #rails #TDD #webdevelopment #fullstack #100DaysOfCode
 
 ##R1D72.
 
