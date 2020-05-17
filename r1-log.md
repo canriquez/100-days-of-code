@@ -2,9 +2,9 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
-##R1D74.
+##R1D74-76.
 
-**Twitter:RD74. #rails #TDD #webdevelopment #fullstack #100DaysOfCode
+**Twitter:RD74-76. Feeling exhausted but happy. Yesterday I delivered my Rails Capstone @microverseinc. Today only half-day work. Opening a new branch to work on the known bugs. The hard deadline helps to push through your learning gaps!  #rails #webdevelopment #fullstack #100DaysOfCode
 
 ##R1D73.
 
