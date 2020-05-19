@@ -2,6 +2,10 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+##R1D77-78.
+
+**Twitter:RD77-78. First Rails capstone evaluation came toda @microverseinc. Need to work on fixing some bugs and complete RSpec tests. Great feedback from TSE, very detailed and to the point!. I Started working on fixing critical bugs and refactoring SQL from controller to model. #rails #webdevelopment #fullstack #100DaysOfCode
+
 ##R1D74-76.
 
 **Twitter:RD74-76. Feeling exhausted but happy. Yesterday I delivered my Rails Capstone @microverseinc. Today only half-day work. Opening a new branch to work on the known bugs. The hard deadline helps to push through your learning gaps!  #rails #webdevelopment #fullstack #100DaysOfCode
