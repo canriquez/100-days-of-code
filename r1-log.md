@@ -2,6 +2,14 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+##R1D80. 
+
+**Twitter:RD80. Rails Capstone project approved!. Great sunflower eggs brunch at home to celebrate!. Merged approved branch into master. Here it is my Lessons Lab app. https://github.com/canriquez/rails_capstone_lessons_lab. I will take 5 days from program @microverse. I need to rebuild energy to continue with JS. #fullstack #Rails #100DaysOfCode
+
+##R1D79. 
+
+**Twitter:RD79. Finished capstone review requirements. completing 86 RSpect tests including Feature, modeules, controllers. I dont have enough time to leave the responsivenes as I would like, but all main features are fixed. Heroku is now showing all SVG icons and images. Delivered at 2:30 am! #fullstack #Rails #100DaysOfCode
+
 ##R1D77-78.
 
 **Twitter:RD77-78. First Rails capstone evaluation came toda @microverseinc. Need to work on fixing some bugs and complete RSpec tests. Great feedback from TSE, very detailed and to the point!. I Started working on fixing critical bugs and refactoring SQL from controller to model. #rails #webdevelopment #fullstack #100DaysOfCode
