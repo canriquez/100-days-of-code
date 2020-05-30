@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ##R1D80. 
 
+**Twitter:RD81. Back to normal. Finishing Rails extra curriculum API. During holidays, worked fixing PHP issues on an old HTML/CSS/Mysql/PHP site still up and runnning. #fullstack #web development Rails #100DaysOfCode
+
+##R1D80. 
+
 **Twitter:RD80. Rails Capstone project approved!. Great sunflower eggs brunch at home to celebrate!. Merged approved branch into master. Here it is my Lessons Lab app. https://github.com/canriquez/rails_capstone_lessons_lab. I will take 5 days from program @microverse. I need to rebuild energy to continue with JS. #fullstack #Rails #100DaysOfCode
 
 ##R1D79. 
