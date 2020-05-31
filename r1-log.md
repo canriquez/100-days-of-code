@@ -2,9 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+##R1D83. 
+
+**Twitter:RD83. First wireframe done. All sections desing and now working on web site preliminar stuff: draft web site color schemme, flavicon aiming to finish first section draft today #fullstack #web development Rails #100DaysOfCode
+
 ##R1D82. 
 
-**Twitter:RD82. Working on portfolio site wireframe. Planning to build using HTML/CSS/RAILS as I am planning to add some features in later stages. It is a great feeling building web page that will signal my official start as a full stack developer #fullstack #web development Rails #100DaysOfCode
+**Twitter:RD82. Working on portfolio site wireframe. Planning to build using HTML/CSS/RAILS/JS as I am planning to add some features in later stages. It is a great feeling building web page that will signal my official start as a full stack developer #fullstack #web development Rails #100DaysOfCode
 
 ##R1D81. 
 
