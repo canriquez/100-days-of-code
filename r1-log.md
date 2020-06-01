@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ##R1D84.
 
-**Twitter:RD84.  #fullstack #web #development #Rails #100DaysOfCode
+**Twitter:RD84.Worked on algo & data curriculum. Solved basic recursion problems. Continued working with portfolio page. Tomorrow will apply for new coding partner to Start Java Script curriculum @microverseinc. #fullstack #web #development #Rails #100DaysOfCode
 
 ##R1D83. 
 
