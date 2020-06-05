@@ -2,9 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+##R1D88
+
+**Twitter:RD88. #mobilefirst #fullstack #web #development #Rails #100DaysOfCode #Goodtimes
+
 ##R1D87
 
-**Twitter:RD87.  @microverseinc. #mobilefirst #fullstack #web #development #Rails #100DaysOfCode
+**Twitter:RD87. Mob programming with standup team @microverseinc.More done on my portfolio. I work to finish it this week so I can move next to my 'all-time' anticipated JavaScript.  #mobilefirst #fullstack #web #development #Rails #100DaysOfCode #Goodtimes
 
 ##R1D86
 
