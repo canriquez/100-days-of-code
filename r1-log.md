@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ##R1D88-90
 
-**Twitter:RD88-90. I had a great working weekend. Portfoilio almost ready. Have to work now on final details. Working now with -I'm not a robot- captcha and implementing email for the contact form. I am working to have it live during the week, while starting with Javascript. #mobilefirst #fullstack #web #development #Rails #100DaysOfCode #Goodtimes
+**Twitter:RD88-90. I had a great working weekend. The portfolio is almost ready. I have to work now on the final details. Working now with ruby gems for captcha and implementing email. Working to going 'live' this week. #mobilefirst #fullstack #web #development #Rails #100DaysOfCode
 
 ##R1D87
 
