@@ -2,6 +2,11 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+
+##R1D
+
+**Twitter:R1D. - Final details publishing portfolio in AWS EC2. Using letscrypt for SSL certificate. Started with Javascript and my new coding partner. Finished with ES6 FCC intro challenges (Arrow functions, classes modules, promises, generators, etc)#mobilefirst #fullstack #Javascript #Rails #100DaysOfCode
+
 ##R1D88-90
 
 **Twitter:RD88-90. I had a great working weekend. The portfolio is almost ready. I have to work now on the final details. Working now with ruby gems for captcha and implementing email. Working to going 'live' this week. #mobilefirst #fullstack #web #development #Rails #100DaysOfCode
