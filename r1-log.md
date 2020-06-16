@@ -2,11 +2,12 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
-##R1D
+##R1D95-76
 
-**Twitter:R1D. Finished with ES6 FCC intro challenges (Arrow functions, classes modules, promises, generators, etc)#mobilefirst #fullstack #Javascript #Rails #100DaysOfCode
+**Twitter:R1D95-97. Busy last 3 days, finished with JS ES6 FreeCodeCamp intro challenges (Arrow functions, promises, generators, etc), regexp, and debugging modules. Finished Towers of Hanoi I and binary search challenges 
+@microverseinc. #fullstack #Javascript #100DaysOfCode
 
-##R1D
+##R1D91-94
 
 **Twitter:R1D91-94. - Lots of work publishing my Rails portfolio in AWS EC2. Working with Ubuntu 18, Nginx, Puma and learning how to deploy with capistrano. great hours of fun and troubleshooting. almost there though. Using letsencrypt for SSL certificate. Started with Javascript and my new coding partner @microverseinc. #mobilefirst #fullstack #Javascript #Rails #100DaysOfCode
 
