@@ -2,6 +2,10 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+##R1D98
+
+**Twitter:R1D98. Finished Towers of Hanoi II for N disks @microverseinc. More JavaScript reading. Finished basic data structures and OOP introductions @freeCodeCamp. I feel grateful to have all this available time to focus on thanks to my family! #fullstack #Javascript #100DaysOfCode
+
 ##R1D95-76
 
 **Twitter:R1D95-97. Busy last 3 days, finished with JS ES6 FreeCodeCamp intro challenges (Arrow functions, promises, generators, etc), regexp, and debugging modules. Finished Towers of Hanoi I and binary search challenges 
