@@ -2,6 +2,11 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+##R1D99
+
+**Twitter:R1D99.Birthday for me!. More functional programming in JavaScript. Rewriting  Map, Concat and Filter at 
+@microverseinc.Still, I believe I approved today a great capstone so far teaching my 7yo son flashing a led with Arduino UNO.  #Javascript #100DaysOfCode #prouddad
+
 ##R1D98
 
 **Twitter:R1D98. Finished Towers of Hanoi II for N disks @microverseinc. More JavaScript reading. Finished basic data structures and OOP introductions @freeCodeCamp. I feel grateful to have all this available time to focus on thanks to my family! #fullstack #Javascript #100DaysOfCode
