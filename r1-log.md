@@ -2,6 +2,10 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+##R1D100
+
+**Twitter:R1D100. #100DaysOfCode #prouddad
+
 ##R1D99
 
 **Twitter:R1D99.Birthday for me!. More functional programming in JavaScript. Rewriting  Map, Concat and Filter at 
