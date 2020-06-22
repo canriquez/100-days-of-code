@@ -2,9 +2,9 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
-##R1D100
+##R1D100-R2D03
 
-**Twitter:R1D100. #100DaysOfCode #prouddad
+**Twitter:R1D100-R2D03. new 100DoC started!. First JS project submitted @microverseinc. Amazing progress in the last 100 days. I happy sharing with you my fresh portfolio page. www.carlosanriquez.com. I learn lots from you so, thanks for any feedback!. #100DaysOfCode #javascript #round2 
 
 ##R1D99
 
