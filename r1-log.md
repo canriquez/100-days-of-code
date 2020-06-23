@@ -2,9 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
-##R2D104
+##R2D05
 
-**Twitter:R2D104. Making steady progress through javascript. Library project approved @microverseinc. Continuing curriculum into factory functions and module pattern. Preparing for next project. #100DaysOfCode #javascript #fullstack 
+**Twitter:R2D05 #100DaysOfCode #javascript #fullstack 
+
+##R2D04
+
+**Twitter:R2D04. Making steady progress through javascript. Library project approved @microverseinc. Continuing curriculum into factory functions and module pattern. Preparing for next project. #100DaysOfCode #javascript #fullstack 
 
 ##R1D100-R2D03
 
