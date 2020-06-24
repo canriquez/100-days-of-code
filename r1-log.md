@@ -2,9 +2,14 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+
+##R2D06
+
+**Twitter:R2D06.#100DaysOfCode #javascript #ruby #fullstack 
+
 ##R2D05
 
-**Twitter:R2D05 #100DaysOfCode #javascript #fullstack 
+**Twitter:R2D05.Oh! the joy of JS Factory functions and the module pattern! Learning lots and having fun working with @enelesmai. We are building our JS Tic-Tac-Toe project 2 @microverseinc. Mob programming with backtracking algorithm. #100DaysOfCode #javascript #ruby #fullstack 
 
 ##R2D04
 
