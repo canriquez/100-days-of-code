@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ##R2D07
 
-**TwitterR2D07. #100DaysOfCode #javascript  #fullstack 
+**Twitter:R2D07. Learning about npm and webpack. Learning how the bundling magic happens. Working to finish studying material tomorrow to start  first Javascript solo project @microverseinc next week. Having fun in the process, for real.  #100DaysOfCode #javascript  #fullstack 
 
 ##R2D06
 
