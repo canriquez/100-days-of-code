@@ -3,6 +3,10 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
+##R2D09
+
+**Twitter:R2D09.#100DaysOfCode #javascript  #webpack #fullstack
+
 ##R2D08
 
 **Twitter:R2D08. Working on several Javascript tutorials, learning through webpack config. Learning to handle loaders and plugins in this great tutorial https://webpack.academy/p/the-core-concepts from @TheLarkInn. Lots to learn still but good progress so far.  #100DaysOfCode #javascript  #webpack #fullstack
