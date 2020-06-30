@@ -3,9 +3,13 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
-##R2D09
+##R2D12
 
-**Twitter:R2D09.#100DaysOfCode #javascript  #webpack #fullstack
+**Twitter:R2D12. #100DaysOfCode #javascript  #webpack #fullstack
+
+##R2D09-11
+
+**Twitter:R2D09-11.More Javascript fun. Working on project 3 'restaurant page' @microverseinc. using Webpack to manage assets building a dynamic HTML/CSS and JScript app. Working on binary tree lessons and repl.it challenges. #100DaysOfCode #javascript  #webpack #fullstack
 
 ##R2D08
 
