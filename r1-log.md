@@ -3,6 +3,10 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
+##R2D15-16
+
+**Twitter:R2D15-16. Project 3 Restaurant Page approved @microverseinc. <link> . Working through SOLID OOP application for Javascript. Revisiting composition vs inheritance. I went deep on Ruby OOP and now JS strucks me as a little entangled #100DaysOfCode #javascript #webpack #fullstack
+
 ##R2D12-14
 
 **Twitter:R2D12-14. Intensive Javascript days!. Restaurant page project (html/css/js and webpack) submitted @microverseinc. Tab-switching logic would wipe-out previous html section and render new section w/ functions exported from dedicated component modules. working with eslint and stylelint. #100DaysOfCode #javascript #webpack #fullstack
