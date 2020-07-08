@@ -3,6 +3,10 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
+##R2D17-18
+
+**Twitter:R2D15-16. Into Javascript OOP patterns practicing SOLID with factories and composition. Started the bread an butter app for any new Javascriptian 🙃, yes a TODO app with my coding partner @selene  @microverseinc. This is fun. Yeah. #100DaysOfCode #javascript #webpack #fullstack
+
 ##R2D15-16
 
 **Twitter:R2D15-16. Project 3 Restaurant Page approved @microverseinc. <link> . Working through SOLID OOP application for Javascript. Revisiting composition vs inheritance. I went deep on Ruby OOP and now JS strucks me as a little entangled #100DaysOfCode #javascript #webpack #fullstack
