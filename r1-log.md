@@ -4,9 +4,14 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
 
-##R2D19
 
-**Twitter:R2D19.  #100DaysOfCode #javascript #webpack #fullstack
+##R2D22
+
+**Twitter:R2D22. Working on improving my github portfolio, so checking all pinned projects to made them complete and easy to read.  Here it is if you want to have a look. https://github.com/canriquez. Please starr any project that you like! Today having a little easy and going for a walk with the family! #100DaysOfCode #javascript #github #fullstack
+
+##R2D19-21
+
+**Twitter:R2D19-21.  Long days with Javascript. Working in the Todo App @microverse. Working with factory functions and module pattern to implement OOP for the app. Building localStorage methods to implement session's data persistance. #100DaysOfCode #javascript #webpack #fullstack
 
 ##R2D17-18
 
