@@ -5,9 +5,13 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
 
+##R2D23
+
+**Twitter:R2D23. Earling morning starting with code reviews and mentee call. Final step for the ToDo app working with @selene #100DaysOfCode #javascript #github #fullstack
+
 ##R2D22
 
-**Twitter:R2D22. Working on improving my github portfolio, so checking all pinned projects to made them complete and easy to read.  Here it is if you want to have a look. https://github.com/canriquez. Please starr any project that you like! Today having a little easy and going for a walk with the family! #100DaysOfCode #javascript #github #fullstack
+**Twitter:R2D22. Working on improving my GitHub portfolio, so checking all pinned projects to make them complete and easy to read.  Here it is if you want to have a look. https://github.com/canriquez. Please "⭐️" any project that you like! #100DaysOfCode #javascript #github #fullstack
 
 ##R2D19-21
 
