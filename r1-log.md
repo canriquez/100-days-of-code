@@ -5,9 +5,13 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
 
-##R2D23
+##R2D25
 
-**Twitter:R2D23. Earling morning starting with code reviews and mentee call. Final step for the ToDo app working with @selene #100DaysOfCode #javascript #github #fullstack
+**Twitter:R2D25. Working on binary search tree challenge. Todo App, Finished, submitted and approved! with my coding partner @selene. Now next to the weather AP solo project using APIs. More fun to come! #100DaysOfCode #javascript #github #fullstack
+
+##R2D23-24
+
+**Twitter:R2D23-24. Earling morning starting with code reviews and mentee call. Worked on a couple of ways to solve Binary Tree height using stacks instead of recursion @microverse. Final step for the ToDo app working with @selene #100DaysOfCode #javascript #github #fullstack
 
 ##R2D22
 
