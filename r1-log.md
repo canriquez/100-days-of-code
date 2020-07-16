@@ -3,11 +3,13 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
+##R2D26
 
+**Twitter:R2D26.Javascript todo app submitted and approved!. Starting JavaScript API readings. This looks like so much fun. #100DaysOfCode #javascript #github #fullstack
 
 ##R2D25
 
-**Twitter:R2D25. Working on binary search tree challenge. Todo App, Finished, submitted and approved! with my coding partner @selene. Now next to the weather AP solo project using APIs. More fun to come! #100DaysOfCode #javascript #github #fullstack
+**Twitter:R2D25. Working on 'binary search tree' challenge. JavaScript Todo App progress: refactoring functions to comply with total modular design requirements. Planning to submit tomorrow @microverseinc. Slow day, but we keep pushing through #100DaysOfCode #javascript #ruby  #fullstack
 
 ##R2D23-24
 
