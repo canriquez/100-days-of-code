@@ -3,9 +3,13 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
+##R2D27
+
+**Twitter:R2D27.  #100DaysOfCode #javascript #github #fullstack
+
 ##R2D26
 
-**Twitter:R2D26.Javascript todo app submitted and approved!. Starting JavaScript API readings. This looks like so much fun. #100DaysOfCode #javascript #github #fullstack
+**Twitter:R2D26. Javascript ToDo app approved with @enelesmai ! Check repo https://github.com/canriquez/JS_ToDo_App and please give an 🌟 if you like it!. demo : https://rawcdn.githack.com/canriquez/JS_ToDo_App/7965cac08a2c4c4cabf4cc133a881da6bc54f8e2/dist/index.html. Next is dynamic user interface interactions. Ups and downs but keep at it! #100DaysOfCode #javascript #github #fullstack
 
 ##R2D25
 
