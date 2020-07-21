@@ -3,9 +3,13 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
+##R2D28
+
+**Twitter:R2D28. #100DaysOfCode #javascript #github #fullstack
+
 ##R2D27
 
-**Twitter:R2D27.  #100DaysOfCode #javascript #github #fullstack
+**Twitter:R2D27. More JavaScript curriculum. Working on Dynamic User interfaces. Practicing form validations  'form novalidate' and managing on the fly validation with JS. Finished lesson and first coding challenge on binary search tree @microverseinc. #100DaysOfCode #javascript #fullstack
 
 ##R2D26
 
