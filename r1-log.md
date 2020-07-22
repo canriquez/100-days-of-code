@@ -3,9 +3,13 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
+##R2D29
+
+**Twitter:R2D29 #100DaysOfCode #javascript #fullstack
+
 ##R2D28
 
-**Twitter:R2D28. #100DaysOfCode #javascript #github #fullstack
+**Twitter:R2D28.JavaScript, and asynchronous code @microverseinc Learning lots from @philip_roberts video https://youtu.be/8aGhZQkoFbQ about JS event loop & callback queue. Going deep on async Callbacks & Promises. Taking the time to master these patterns.  #100DaysOfCode #javascript #fullstack
 
 ##R2D27
 
