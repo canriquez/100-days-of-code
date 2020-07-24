@@ -3,9 +3,13 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
-##R2D29
+##R2D31
 
-**Twitter:R2D29 #100DaysOfCode #javascript #fullstack
+**Twitter:R2D31 #javascript #fullstack #API
+
+##R2D29-30
+
+**Twitter:R2D29-30 JavaScript all the way (Rocket). my gipy practice projects is up and runnng. Give it a go to change your mood! https://rawcdn.githack.com/canriquez/Gif-My-Mood/ca5133b8ea6f670a377dc0721c89382afff815e1/dist/index.html#100DaysOfCode Happy to have gone deep with Promises to understand Async and Await. next step is to go deep into APIs and all async concepts and work on my Weather App project @microverseinc. #javascript #fullstack #API
 
 ##R2D28
 
