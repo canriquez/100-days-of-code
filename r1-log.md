@@ -3,9 +3,10 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
-##R2D31
+##R2D31-34
 
-**Twitter:R2D31 #javascript #fullstack #API
+**Twitter:R2D31-34 More JavaScript to build my weather app with APIs, FF, module pattern, Webpack, and linters.  It took a while but now it is done and submitted 
+@microverseinc. Here is for you https://anriquez-weather-app.netlify.app.  If you like, send a picture of your weather Sun with raysSnowman#javascript #fullstack
 
 ##R2D29-30
 
