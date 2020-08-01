@@ -3,6 +3,10 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
+##R2D38
+
+**Twitter:R2D38.#TDD #redtogreen #javascript #fullstack
+
 ##R2D35-37
 
 **Twitter:R2D35-37. Working to love JavaScript unit testing. is it possible? 😅 First testing project (Jest) approved @microverseinc. Working to refactor tic-tac-toe project to work with Jest and Webpack for a complete components module test suit. #TDD #redtogreen #javascript #fullstack
