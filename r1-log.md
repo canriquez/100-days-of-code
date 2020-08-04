@@ -3,9 +3,14 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
-##R2D38
+##R2D40
 
-**Twitter:R2D38.#TDD #redtogreen #javascript #fullstack
+**Twitter:R2D40.#TDD #javascript #100DaysOfCode
+
+
+##R2D38-39
+
+**Twitter:R2D38-39.Testing JavaScript project approved @microverseinc. Significant code refactoring applied with @enelesmai to our previous Tic-Tac-Toe project to comply with required testing best practices. Using Jest Matchers and mocks for module tests. #TDD #javascript #100DaysOfCode
 
 ##R2D35-37
 
