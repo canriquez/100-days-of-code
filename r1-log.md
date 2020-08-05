@@ -9,7 +9,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ##R2D40
 
-**Twitter:R2D40.Good progress on 'Working with JavaScript in Rails' @microverseinc. From Ajax to unobtrusive JavaScript. The idea of using a rails backend API sending back json responses to be handled by Javascript in the front end looks really promising!. #rails #javascript #fullstack #100DaysOfCode
+**Twitter:R2D40. Good progress on 'Working with JavaScript in Rails' @microverseinc. Reviewing Rails APIs. And, the idea of a rails backend API sending back JSON responses to a Javascript handled front end looks really promising for my toolset😍 #rails #javascript #fullstack #100DaysOfCode
 
 
 ##R2D38-39
