@@ -3,9 +3,13 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
+##R2D41
+
+**Twitter:R2D41. Today working with firebase cloud services using database, authentication and storage to test a simple but powerfull codelabl tutorial https://codelabs.developers.google.com/codelabs/firebase-web/#0. Still working to understand 100% everythign in the tutoria, but I love it. Applying this now to my old library project. #rails #javascript #fullstack #100DaysOfCode
+
 ##R2D40
 
-**Twitter:R2D40.#TDD #javascript #100DaysOfCode
+**Twitter:R2D40.Good progress on 'Working with JavaScript in Rails' @microverseinc. From Ajax to unobtrusive JavaScript. The idea of using a rails backend API sending back json responses to be handled by Javascript in the front end looks really promising!. #rails #javascript #fullstack #100DaysOfCode
 
 
 ##R2D38-39
