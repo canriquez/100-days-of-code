@@ -2,10 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+##R2D44
 
-##R2D42
+**Twitter:R2D44. 😅#javascript #fullstack #100DaysOfCode
 
-**Twitter:R2D42.#javascript #fullstack #100DaysOfCode
+##R2D42-43
+
+**Twitter:R2D42-43.learned how to deploy multiple rails apps on my EC2 AWS instance with puma and Nginx. Basic course on phaser done. I requested my JavaScript Capstone @microverseinc It will be me, my capstone and plenty of water for the next 5 days 😅#javascript #fullstack #100DaysOfCode
 
 ##R2D41
 
