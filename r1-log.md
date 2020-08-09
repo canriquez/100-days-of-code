@@ -2,9 +2,9 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
-##R2D44
+##R2D44-45
 
-**Twitter:R2D44. 😅#javascript #fullstack #100DaysOfCode
+**Twitter:R2D44-45. Working with Phaser 3 with a couple of tutorials. Defining my RPG game main story line. Lots to cover including game design and plan for the next 4 full days coding until JavaScript capstone submission day @microverseinc. I can feel both exitement and pressure. A healthy tension as they said.. 😅 #javascript #fullstack #100DaysOfCode
 
 ##R2D42-43
 
