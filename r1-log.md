@@ -2,10 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+##R2D47
+
+**Twitter:R2D47. @MariosKnl, and @mac_experts  for your support! #javascript #100DaysOfCode
 
 ##R2D46
 
-**Twitter:R2D46. Finished game design documentation and first work breakdown structure draft for my JavaScript Capstone using Phaser 3. Plenty objectives for the next 4 days. Tomorrow I will focus on assets and make progress on the game initial scenes. Thanks to marios and macnik for the support!. #javascript #phaser #100DaysOfCode
+**Twitter:R2D46. Finished GDD and first work breakdown structure draft for my JavaScript Capstone using #Phaser3 @microverseinc. Learning about Tailmaps and Phaser.scene. Lots to learn in the next 4 days 😅. Thanks, @MariosKnl, and @mac_experts  for your support! #javascript #100DaysOfCode
 
 ##R2D44-45
 
