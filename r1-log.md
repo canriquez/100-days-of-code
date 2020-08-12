@@ -2,9 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+##R2D48
+
+**Twitter:R2D48.#javascript #100DaysOfCode
+
 ##R2D47
 
-**Twitter:R2D47. @MariosKnl, and @mac_experts  for your support! #javascript #100DaysOfCode
+**Twitter:R2D47. More Phaser 3 for me. Learning about scenes and tailed maps. Learning from a great tutorial on tailed https://gamefromscratch.com/tiled-map-editor-tutorial-series/ . The first time for me in building a Game and I find it fascinating. Working now on extending Phaser classes. #javascript #100DaysOfCode #phaser3
 
 ##R2D46
 
