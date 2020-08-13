@@ -2,9 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+##R2D49
+
+**Twitter:R2D49. #javascript #100DaysOfCode
+
 ##R2D48
 
-**Twitter:R2D48.#javascript #100DaysOfCode
+**Twitter:R2D48.Hard day's night working on my RPG capstone  @microverseinc Far from finished but I solved a decoupling issue that enabled testing unit test hero and demon classes🎉 key game methods are ok! Lots of work but it is great learning progress. #javascript #Phaser3 #100DaysOfCode
 
 ##R2D47
 
