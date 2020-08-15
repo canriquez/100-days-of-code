@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ##R2D49
 
-**Twitter:R2D49. #javascript #100DaysOfCode
+**Twitter:R2D49. Full speed ahead with my JavaScript Capstone. Going deep today working with GameObjects containers, sprites and most importantly escene events. Phaser has been a big challenge so far, but a great learning experience. I look forward to sumbmit my project @microverseinc in the next hours. #javascript #phaser #100DaysOfCode
 
 ##R2D48
 
