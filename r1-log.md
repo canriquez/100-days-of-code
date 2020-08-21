@@ -2,6 +2,15 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+
+##R2D49
+
+**Twitter:R2D49.@microverseinc #react #fullstack #100DaysOfCode
+
+##R2D50-58
+
+**Twitter:R2D50-58. Busy last 8 days. My Phaser RPG JavaScript project @microverseinc is approved and I am super happy to share it with you https://anriquez-rpg.netlify.app. I plan to keep improving it. It is my first game ever! Great experience. On to React now!. #javascript #phaser #100DaysOfCode
+
 ##R2D49
 
 **Twitter:R2D49. Full speed ahead with my JavaScript Capstone. Going deep today working with GameObjects containers, sprites and most importantly escene events. Phaser has been a big challenge so far, but a great learning experience. I look forward to sumbmit my project @microverseinc in the next hours. #javascript #phaser #100DaysOfCode
