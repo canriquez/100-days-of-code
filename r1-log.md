@@ -2,10 +2,11 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+##R2D60
+**Twitter:R2D60.#react #fullstack #100DaysOfCode.
 
-##R2D49
-
-**Twitter:R2D49.@microverseinc #react #fullstack #100DaysOfCode
+##R2D59
+**Twitter:R2D59.Starting with React. First steps with this great intro tutorial building a tic-tac-toe game with 'time travel' to go back to previous plays https://reactjs.org/tutorial/tutorial.html Good intro to start learning about React.Component and props. @microverseinc #react #fullstack #100DaysOfCode
 
 ##R2D50-58
 
