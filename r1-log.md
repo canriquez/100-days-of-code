@@ -2,8 +2,11 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+##R2D62
+**Twitter:R2D62 #react #fullstack #100DaysOfCode
+
 ##R2D61
-**Twitter:R2D61.#react #fullstack #100DaysOfCode.
+**Twitter:R2D61. More React. Going through this awesome beginner course by @kentcdodds https://egghead.io/courses/the-beginner-s-guide-to-react So far, learning the bases for React fragments, PropTypes, and Styling. I am so happy to have finished JS curriculum before React 😅@microverseinc #react #fullstack #100DaysOfCode
 
 ##R2D60
 **Twitter:R2D60. Working through FCC great React lessons https://www.freecodecamp.org/learn/front-end-libraries/react/. Learning now about stateless and statefull components. Passing state and callbacks as props to child components. Having fun disecting form's input using onChange() callbacks #react #fullstack #100DaysOfCode.
