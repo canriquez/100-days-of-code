@@ -2,7 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
-##R2D63
+## R2D63
 **Twitter:R2D63 Great student's assambly @microverseinc this morning. Finished  @Codecademy #react 101 course. Next stop will be start with fist solo project to build a calculator. Have a great weekend!  #fullstack #100DaysOfCode
 
 ##R2D62
