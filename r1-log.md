@@ -2,6 +2,9 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+## R2D64-65
+**Twitter:R2D64-65 Working on my #React calculator App @microverseinc. Practicing functional stateless components, JSX, react's items Keys, and component styling. It is fun putting all together to come up with this project. Milestone 3 approved. Two more to go!  #fullstack #100DaysOfCode
+
 ## R2D63
 **Twitter:R2D63 Great student's assambly @microverseinc this morning. Finished  @Codecademy #react 101 course. Next stop will be start with fist solo project to build a calculator. Have a great weekend!  #fullstack #100DaysOfCode
 
