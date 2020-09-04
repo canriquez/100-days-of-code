@@ -2,6 +2,9 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+## R2D66-68
+**Twitter:R2D66-68. #react calculator project approved @microverseinc. I took the chance to add full accessibility mouse/touch/keyboard and text to speech using #amazonpolly. Repo link is in the app https://anriquez-calculator.netlify.app. Please check it out and share the loveSmiling face with heart-shaped eyes #fullstack #100DaysOfCode
+
 ## R2D64-65
 **Twitter:R2D64-65 Working on my #React calculator App @microverseinc. Practicing functional stateless components, JSX, react's items Keys, and component styling. It is fun putting all together to come up with this project. Milestone 3 approved. Two more to go!  #fullstack #100DaysOfCode
 
