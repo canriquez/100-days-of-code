@@ -2,6 +2,9 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+## R2D69
+**Twitter:R2D69. Starting with redux. Learning about Redux store, reducer function, action creators, and more from this great course @freecodecamp https://learn.freecodecamp.org/front-end-libraries/redux. Have a great weekend everybody! #fullstack #100DaysOfCode #redux
+
 ## R2D66-68
 **Twitter:R2D66-68. #react calculator project approved @microverseinc. I took the chance to add full accessibility mouse/touch/keyboard and text to speech using #amazonpolly. Repo link is in the app https://anriquez-calculator.netlify.app. Please check it out and share the loveSmiling face with heart-shaped eyes #fullstack #100DaysOfCode
 
