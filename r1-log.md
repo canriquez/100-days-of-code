@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
 ## R2D71
-**Twitter:R2D70. #redux #fullstack #100DaysOfCode #reactjs 
+**Twitter:R2D71. Even more #redux. Working through the FCC course https://freecodecamp.org/learn/front-end-libraries/react-and-redux/. Using Provider, mapping state and dispatch to props, and connecting React to Redux. JS inmutability concepts clear are must-have to avoid head-spinning Smiling face with open mouth and cold sweatUpside-down face  #fullstack #100DaysOfCode #reactjs
 
 ## R2D70
 **Twitter:R2D70. More #redux for me. Using ReduxThunk and middleware to handle Async actions. Using combineReducers() to handle state complexity. I added independent audio tags to my Calculator App to allow some speech overlap. https://github.com/canriquez/react-calculator  #fullstack #100DaysOfCode #reactjs 
