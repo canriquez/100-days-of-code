@@ -2,6 +2,10 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
+
+## R2D75-77
+**Twitter:R2D75-77. Last 3 days working on final react/redux curriculum project Bookstore @microverseinc with my coding partner @RicardoValtie15. It was a great project to practice using Provider, mapState, mapDispatch, and connect to share the store with components https://github.com/canriquez/redux-bookstore #fullstack #100DaysOfCode #reactjs
+
 ## R2D72-74
 **Twitter:R2D72-74. More #Redux great Dan Abramov's tutorial https://egghead.io/courses/getting-started-with-redux using TDD to implement reducers. Using Provider, mapState, mapDispatch, and connect to share the store with components. Less head spinning Upside-down face after  3rd course review Smiling face with open mouth and cold sweat.#fullstack #100DaysOfCode #reactjs
 
