@@ -3,6 +3,9 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
+## R2D78-80
+**Twitter:R2D78-80. Using #Redux Thunk and common patters to return thenable async action creators!. It helps to update the store just in time after a new update is received from API, while triggering propper component re-rendering. Final React/Redux Capstone is on! #100DaysOfCode #reactjs
+
 ## R2D75-77
 **Twitter:R2D75-77. Last 3 days working on final react/redux curriculum project Bookstore @microverseinc with my coding partner @RicardoValtie15. It was a great project to practice using Provider, mapState, mapDispatch, and connect to share the store with components https://github.com/canriquez/redux-bookstore #fullstack #100DaysOfCode #reactjs
 
