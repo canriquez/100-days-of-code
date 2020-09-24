@@ -3,6 +3,9 @@
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 
+## R2D81-84
+**Twitter:R2D81-84. Final React/Redux project @microverseinc approved. Working with redux-thunk, Router and Switch methods for this tiny app. Also working with module.css for every component and container. Any feedback will be appreciated. Next step will be the final program project with a real life like full stack project! #100DaysOfCode #reactjs
+
 ## R2D78-80
 **Twitter:R2D78-80. Using #Redux Thunk and common patters to return thenable async action creators!. It helps to update the store just in time after a new update is received from API, while triggering propper component re-rendering. Final React/Redux Capstone is on! #100DaysOfCode #reactjs
 
