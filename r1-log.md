@@ -2,8 +2,10 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
-
+## R2D85-96
+**Twitter:R2D85-96. The last 11 days almost completely immerse into my final project. Great learning points working with #Rails API(JWT) backend for a #ReactJS/#Redux front end. The APP handles the job applicant's evaluations. The project is approved! https://github.com/canriquez/my-team-builder #100DaysOfCode
 ## R2D81-84
+
 **Twitter:R2D81-84. Final #React #Redux project @microverseinc approved. Router, Switch methods, and module.css for every component on this tiny app. https://anriquez-crypto-assets.netlify.app/# Next step, following my friend's @mac_experts and @MariosKnl steps with my final full-stack project! #100DaysOfCode.
 
 ## R2D78-80
